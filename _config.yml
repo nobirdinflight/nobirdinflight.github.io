@@ -1,1 +1,7 @@
-theme: jekyll-theme-modernist
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+gem "github-pages", group: :jekyll_plugins
+
+title: Tomorrow is today's yesterday.
+description: [A blog By nobirdinflight]
