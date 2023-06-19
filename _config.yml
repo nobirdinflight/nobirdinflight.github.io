@@ -3,5 +3,5 @@ plugins:
   - jekyll-remote-theme
 gem "github-pages", group: :jekyll_plugins
 
-title: Tomorrow is today's yesterday.
+title: Today is tomorrow's yesterday.
 description: [A blog By nobirdinflight]
