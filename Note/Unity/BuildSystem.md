@@ -1,3 +1,5 @@
+- [如何调试BuildSystem](#如何调试buildsystem)
+
 如何调试BuildSystem
 ===
 1. 修改BuildProgramForBee.bee.cs文件，将
